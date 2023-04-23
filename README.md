@@ -1,5 +1,5 @@
 ## ray for JS
-JS implementation fpr spatie ray.
+JS implementation for spatie ray.
 
 ### Usage
 Import  JS file into your DOM.
