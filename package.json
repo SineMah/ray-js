@@ -1,6 +1,6 @@
 {
-  "name": "ray",
-  "version": "0.5.0",
+  "name": "@sinemah/ray-js",
+  "version": "0.5.1",
   "description": "spatie ray JavaScript implementation",
   "main": "index.esm.js",
   "scripts": {
